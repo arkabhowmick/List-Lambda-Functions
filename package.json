@@ -1,0 +1,14 @@
+{
+  "name": "listlambdas",
+  "version": "1.0.0",
+  "description": "This program lists all your lambda functions and store in csv format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arka Bhowmick",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.8.3"
+  }
+}
